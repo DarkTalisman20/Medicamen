@@ -2,7 +2,9 @@ import random
 import json
 import pickle
 import nltk
-nltk.download('all')
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('stopwords')
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Activation, Dropout
