@@ -21,49 +21,66 @@ The links for the websites are as follows -
 
 ## Setting up and Testing
 
-1) Downloading the code -
-   
+### 1) Downloading the code
+
+
     On your terminal type the following command - 
 
-    ```
+    
         git clone https://github.com/DarkTalisman20/Medicamen.git
-    ```
+    
 
-2) Downloading the requirements -
 
-    ```
+### 2) Downloading the requirements
+
+
+    
         cd Medicamen/
         pip3 install -r requirements.txt
-    ```
+    
+
 
 If you have python installed on your system instead of python3 then you can use 
 
-```
+
+
     pip install -r requirements.txt
-```
+
+
 instead of pip3.
 
-3) Training the chatbot model -
+### 3) Training the chatbot model 
 
-```
+
+
     python trainer.py
-```
-or 
-```
-    python3 trainer.py
-```
-4) Running the application - 
 
-```
+
+or 
+
+
+    python3 trainer.py
+
+
+### 4) Running the application  
+
+
+
     python app.py
 
-```
+
+
 or 
-```
+
+
     python3 app.py
-```
-5) Opening the Chatbot on browser - 
-    type ```http://localhost:5000/``` on you browser to see the application up and running.
+
+
+### 5) Opening the Chatbot on browser 
+
+    type  http://localhost:5000/ 
+    
+    on you browser to see the application up and running.
 
 ## Code Overview
 
