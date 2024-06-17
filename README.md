@@ -22,12 +22,13 @@ The links for the websites are as follows -
 ## Setting up and Testing
 
 1) Downloading the code -
+    On your terminal type the following command - 
 
     ```
         git clone https://github.com/DarkTalisman20/Medicamen.git
     ```
 
-2) Downloading the requirements -
+3) Downloading the requirements -
 
     ```
         cd Medicamen/
