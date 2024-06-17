@@ -103,7 +103,7 @@ Finally the model is splitted and trained with the help of the Scikit-Learn modu
 'index.html' and 'style.css' together create a platform through which the user can interact with the disease predictor via 'script.js'
 
 
-## Conlusion
+## Conclusion
 Medicamen offers accurate medical assistance to users and aims to be a valuable resource for everyone. Your feedback is crucial for refining and improving the chatbot. Thank You.
 
 
