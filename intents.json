@@ -1,0 +1,135 @@
+{
+  "intents": [
+    {
+      "disease" : "Hair Problems",
+      "keywords" : ["hair","hairfall","baldness","bald","itching","scalp","dandruff","hairloss"],
+      "description" : ["\nHair problems can range from hair loss and thinning to dandruff and excessive oiliness. These issues can affect the scalp and hair health, leading to reduced hair quality and sometimes scalp irritation.\n\nHere are my suggestions that can help you:\n1. Use mild, sulfate-free shampoos to cleanse your scalp without stripping natural oils.\n2. Avoid excessive use of heat styling tools and chemical treatments that can damage hair.\n3. Incorporate a balanced diet rich in vitamins and minerals essential for hair health, like biotin and zinc.\n4. Massage your scalp regularly to improve blood circulation and promote hair growth.\n5. Consult a dermatologist for persistent hair issues or noticeable hair loss.\n"]
+    },
+    {
+      "disease" : "Migraine",
+      "keywords" : ["throbbing","neck pain","headache","sensitivity","nausea","vomiting","pulsing","pounding","migraine","migraines","stiff neck"],
+      "description" : ["\nMigraine is a neurological condition characterized by intense, throbbing headaches, often accompanied by nausea, vomiting, and sensitivity to light and sound. These episodes can last for hours to days and can significantly impact daily activities.\n\nHere are my suggestions that can help you:\n1. Identify and avoid known migraine triggers such as certain foods, stress, and lack of sleep.\n2. Maintain a regular sleep schedule and practice good sleep hygiene.\n3. Stay hydrated and avoid skipping meals to prevent triggering a migraine.\n4. Use over-the-counter pain relief medications like ibuprofen or acetaminophen at the onset of symptoms.\n5. Consult a healthcare provider for persistent migraines or if they interfere with daily life.\n"]
+    },
+    {
+      "disease" : "Cataract",
+      "keywords" : ["cloudy","blurred","cataract"],
+      "description" : ["\nA cataract is a clouding of the eye's lens, leading to decreased vision. It often develops slowly and can affect one or both eyes. Symptoms include blurry vision, difficulty with night vision, and seeing halos around lights.\n\nHere are my suggestions that can help you:\n1. Wear sunglasses to protect your eyes from ultraviolet (UV) radiation, which can contribute to cataract development.\n2. Reduce glare in your environment to make vision more comfortable.\n3. Ensure a diet rich in antioxidants such as vitamins C and E, which may slow cataract progression.\n4. Get regular eye exams to monitor eye health and detect cataracts early.\n5. Discuss with an ophthalmologist about the timing of cataract surgery if vision impairment affects daily activities.\n"]
+    },
+    {
+      "disease" : "Hearing Loss",
+      "keywords" : ["hearing","loss","deaf","deafness","ear","ears","ringing","tinnitus","muffled","muffled hearing"],
+      "description" : ["\nHearing loss can range from mild to profound and can affect one or both ears. It can be caused by various factors, including aging, noise exposure, infections, and genetic predisposition.\n\nHere are my suggestions that can help you:\n1. Protect your ears from loud noises by using earplugs or earmuffs in noisy environments.\n2. Avoid inserting objects into the ear canal to prevent damage to the ear drum.\n3. Get regular hearing screenings to monitor changes in hearing and address issues early.\n4. Consider hearing aids or other assistive devices if hearing loss affects your daily life.\n5. Consult an audiologist for personalized recommendations and treatment options.\n"]
+    },
+    {
+      "disease" : "Skin Problems",
+      "keywords" : ["skin","rash","itching","acne","eczema","psoriasis","dry skin","skin problems","skin issues","skin condition","skin conditions"],
+      "description" : ["\nSkin problems can manifest as rashes, itching, dryness, or conditions like eczema and psoriasis. These issues can be caused by various factors, including allergies, infections, and underlying health conditions.\n\nHere are my suggestions that can help you:\n1. Use gentle, fragrance-free skincare products to avoid irritation and allergic reactions.\n2. Moisturize regularly to keep the skin hydrated and prevent dryness.\n3. Avoid scratching or picking at skin irritations to prevent further damage.\n4. Identify and avoid triggers that worsen skin conditions, such as certain foods or environmental factors.\n5. Consult a dermatologist for a proper diagnosis and treatment plan for persistent or severe skin issues.\n"]
+    },
+    {
+      "disease" : "Conjunctivitis",
+      "keywords" : ["eye pain","red eyes","pink eyes","conjunctivitis","itching","burning","swollen eyes","watery eyes","irritation"],
+      "description" : ["\nConjunctivitis, also known as pink eye, is the inflammation of the conjunctiva, the thin membrane covering the white part of the eye. It can be caused by infections (viral or bacterial), allergies, or irritants.\n\nHere are my suggestions that can help you:\n1. Practice good hand hygiene to prevent the spread of infectious conjunctivitis.\n2. Avoid touching or rubbing your eyes to reduce irritation and prevent infection spread.\n3. Use cold or warm compresses to soothe the eyes and reduce discomfort.\n4. Follow your doctor's advice on using antibiotic or antiviral eye drops for bacterial or viral conjunctivitis.\n5. Remove contact lenses and switch to glasses until the conjunctivitis clears up.\n"]
+    },
+    {
+      "disease" : "Influenza(Flu)",
+      "keywords" : ["cough","fatigue","fever","sore throat","runny nose","muscle aches","headache","vomiting","diarrhea","influenza","flu","nausea","sneezing","dehydration","chills","cold"],
+      "description" : ["\nInfluenza, or the flu, is a contagious respiratory illness caused by influenza viruses. Symptoms include fever, chills, muscle aches, cough, congestion, and fatigue.\n\nHere are my suggestions that can help you:\n1. Get an annual flu vaccine to reduce the risk of getting the flu.\n2. Wash your hands frequently and avoid close contact with sick individuals to prevent transmission.\n3. Rest and stay hydrated to help your body recover from the flu.\n4. Use over-the-counter medications to relieve symptoms like fever and body aches.\n5. Seek medical attention if symptoms are severe or if you are at high risk for flu complications.\n"]
+    },
+    {
+      "disease" : "Nosebleed",
+      "keywords" : ["nose bleeding","nosebleed","nosebleeds"],
+      "description" : ["\nA nosebleed, or epistaxis, occurs when the blood vessels in the nasal lining break, leading to bleeding from one or both nostrils. It can be caused by dry air, nose picking, or trauma.\n\nHere are my suggestions that can help you:\n1. Sit upright and lean slightly forward to prevent swallowing blood.\n2. Pinch the soft part of your nose and apply gentle pressure for 10-15 minutes.\n3. Avoid blowing your nose or bending over for a few hours after a nosebleed to prevent re-bleeding.\n4. Use a humidifier to keep the air moist and prevent dry nasal passages.\n5. Consult a healthcare professional if nosebleeds are frequent or severe.\n"]
+    },
+    {
+      "disease" : "Mouth ulcers",
+      "keywords" : ["ulcers","mouth ulcers","sores","mouth sores","canker sores","canker","painful sores","painful ulcers","inner cheeks","inner lips"],
+      "description" : ["\nMouth ulcers are small, painful sores that develop inside the mouth, often on the inner cheeks, gums, or tongue. They can be caused by minor injuries, stress, or certain foods.\n\nHere are my suggestions that can help you:\n1. Avoid spicy, acidic, or abrasive foods that can irritate ulcers.\n2. Rinse your mouth with a saltwater solution to reduce inflammation and promote healing.\n3. Use over-the-counter topical treatments or mouth rinses to ease discomfort.\n4. Maintain good oral hygiene and use a soft-bristled toothbrush to prevent further irritation.\n5. Consult a healthcare provider if ulcers persist or frequently recur.\n"]
+    },
+    {
+      "disease" : "Gingivitis",
+      "keywords" : ["gums","bleeding gums","swollen gums","red gums","gingivitis","gum infection","gum inflammation","gum swelling","toothache","bad breath","loose teeth","sensitive teeth","loose tooth","sensitive tooth"],
+      "description" : ["\nGingivitis is a mild form of gum disease that causes inflammation, redness, and swelling of the gums. It is often caused by poor oral hygiene leading to plaque buildup on the teeth.\n\nHere are my suggestions that can help you:\n1. Brush your teeth at least twice a day with fluoride toothpaste to remove plaque.\n2. Floss daily to clean between the teeth and under the gumline.\n3. Use an antibacterial mouthwash to help reduce oral bacteria.\n4. Avoid smoking, as it can contribute to gum disease.\n5. Visit your dentist regularly for professional cleanings and check-ups.\n"]
+    },
+    {
+      "disease" : "Acne",
+      "keywords" : ["pimple","pimples","acne","marks","blackhead","blackheads"],
+      "description" : ["\nAcne is a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells. It typically appears on the face, chest, and back and can cause pimples, blackheads, and whiteheads.\n\nHere are my suggestions that can help you:\n1. Cleanse your skin gently twice a day to remove excess oil and dirt.\n2. Avoid picking or squeezing pimples to prevent scarring and infection.\n3. Use non-comedogenic skin care products to reduce the risk of clogged pores.\n4. Apply over-the-counter acne treatments containing ingredients like benzoyl peroxide or salicylic acid.\n5. Keep your hair and hands away from your face to minimize oil transfer.\n6. Seek advice from a dermatologist for persistent or severe acne.\n"]
+    },
+    {
+      "disease" : "Spondylitis",
+      "keywords" : ["neck","back","back ache","stiff neck","stiff back","sleep","neck pain","back pain","spondylitis","neck stiffness","back stiffness","neck ache","back ache","sleeping"],
+      "description" : ["\nSpondylitis is a type of inflammatory arthritis that primarily affects the spine, leading to pain and stiffness in the back and neck. It can also affect other joints and areas of the body.\n\nHere are my suggestions that can help you:\n1. Engage in regular low-impact exercises, such as swimming or walking, to maintain flexibility and reduce stiffness.\n2. Practice good posture to minimize strain on your spine.\n3. Use heat or cold therapy to alleviate pain and inflammation.\n4. Follow a physical therapy regimen tailored to your condition.\n5. Consult a rheumatologist for appropriate medications and treatments.\n"]
+    },
+    {
+      "disease" : "Alzheimer's",
+      "keywords" : ["confusion","forgetfulness","memory loss","dementia","alzheimer","remember","remembering","forget","forgetting","lost"],
+      "description" : ["\nAlzheimer's disease is a progressive neurological disorder that leads to memory loss, cognitive decline, and behavioral changes. It primarily affects older adults and can severely impact daily functioning.\n\nHere are my suggestions that can help you:\n1. Engage in mentally stimulating activities to keep your brain active.\n2. Maintain a healthy lifestyle with regular physical exercise and a balanced diet.\n3. Establish a routine to help manage daily activities and reduce confusion.\n4. Seek support from caregivers or Alzheimer's support groups.\n5. Consult a healthcare provider for treatment options and to discuss management strategies.\n"]
+    },
+    {
+      "disease" : "Frozen shoulders",
+      "keywords" : ["shoulder","shoulders","stiff shoulder","stiff shoulders","painful shoulder","painful shoulders","frozen shoulder","frozen shoulders"],
+      "description" : ["\nFrozen shoulder, or adhesive capsulitis, is a condition characterized by stiffness and pain in the shoulder joint. It can limit the range of motion and make daily activities difficult.\n\nHere are my suggestions that can help you:\n1. Perform gentle stretching and range-of-motion exercises as recommended by a physical therapist.\n2. Apply heat or cold packs to the shoulder to reduce pain and inflammation.\n3. Avoid activities that may exacerbate shoulder pain.\n4. Use over-the-counter pain relief medications to manage discomfort.\n5. Consult a healthcare provider for treatments, including physical therapy or corticosteroid injections.\n"]
+    },
+    {
+      "disease" : "Dificiency of Vitamin D and Calcium",
+      "keywords" : ["vitamin d","calcium","deficiency","weak bones","weak muscles","weakness","bone pain","muscle pain","bone ache","muscle ache","bone weakness","muscle weakness","leg pain","arms pain","leg ache","arms ache","leg weakness","arms weakness"],
+      "description" : ["\nDeficiency in vitamin D and calcium can lead to weakened bones, increasing the risk of fractures and conditions such as osteoporosis. Vitamin D helps your body absorb calcium, which is essential for bone health.\n\nHere are my suggestions that can help you:\n1. Include calcium-rich foods in your diet, such as dairy products, leafy greens, and fortified foods.\n2. Spend time in sunlight to boost your body's natural production of vitamin D.\n3. Consider vitamin D and calcium supplements if dietary intake is insufficient.\n4. Engage in weight-bearing exercises to strengthen bones.\n5. Consult a healthcare provider for personalized dietary and supplementation advice.\n"]
+    },
+    {
+      "disease" : "Arthritis",
+      "keywords" : ["joint","joints","joint pain","joint ache","joint stiffness","joint swelling","joint inflammation","joint redness","joint weakness","joint stiffness","ankle","fingers","knees","wrist","arthritis"],
+      "description" : ["\nArthritis is a group of conditions that cause inflammation and pain in the joints. It can affect people of all ages and lead to decreased mobility and quality of life.\n\nHere are my suggestions that can help you:\n1. Stay active with low-impact exercises like swimming or cycling to keep joints flexible.\n2. Maintain a healthy weight to reduce stress on joints.\n3. Use heat or cold therapy to relieve joint pain and stiffness.\n4. Follow a balanced diet rich in anti-inflammatory foods, such as omega-3 fatty acids.\n5. Consult a healthcare provider for appropriate medications and treatments.\n"]
+    },
+    {
+      "disease" : "Heart Problems",
+      "keywords" : ["heart pain"],
+      "description" : ["\nHeart problems encompass a range of conditions that affect the heart's structure and function, such as coronary artery disease, heart failure, and arrhythmias. These can lead to serious health issues if not managed properly.\n\nHere are my suggestions that can help you:\n1. Follow a heart-healthy diet that is low in saturated fats, trans fats, cholesterol, and sodium.\n2. Engage in regular physical activity to strengthen your heart and improve circulation.\n3. Avoid smoking and limit alcohol consumption to reduce heart disease risk.\n4. Monitor your blood pressure and cholesterol levels regularly.\n5. Consult a cardiologist for personalized treatment and management plans.\n"]
+    },
+    {
+      "disease" : "Anaemia",
+      "keywords" : ["dizziness","weakness","fatigue","pale","pale skin","anaemia","anemia","tiredness","tired","weak","weakness"],
+      "description" : ["\nAnemia is a condition where you don't have enough healthy red blood cells to carry adequate oxygen to your body's tissues. This can cause fatigue, weakness, and shortness of breath.\n\nHere are my suggestions that can help you:\n1. Include iron-rich foods in your diet, such as red meat, beans, and fortified cereals.\n2. Enhance iron absorption by consuming vitamin C-rich foods alongside iron-rich foods.\n3. Avoid tea and coffee during meals as they can inhibit iron absorption.\n4. Take iron supplements if prescribed by your healthcare provider.\n5. Consult a healthcare provider to determine the underlying cause of anemia and appropriate treatments.\n"]
+    },
+    {
+      "disease" : "Diabetes",
+      "keywords" : ["frequent urination","thirst","sugar","diabetes","diabetic","sugar level","sugar levels","insulin","insulin level","insulin levels","blood sugar","blood sugar level","blood sugar levels","blood glucose","blood glucose level","blood glucose levels","sugar level","sugar levels"],
+      "description" : ["\nDiabetes is a chronic condition characterized by high blood sugar levels due to the body's inability to produce or effectively use insulin. It can lead to various health complications if not managed properly.\n\nHere are my suggestions that can help you:\n1. Follow a balanced diet with controlled carbohydrate intake to manage blood sugar levels.\n2. Engage in regular physical activity to help regulate blood sugar and maintain a healthy weight.\n3. Monitor your blood sugar levels regularly to keep them within target ranges.\n4. Take medications or insulin as prescribed by your healthcare provider.\n5. Consult a diabetes educator for personalized management and lifestyle advice.\n"]
+    },
+    {
+      "disease" : "Hypertension",
+      "keywords" : ["high blood pressure","hypertension","bp","blood pressure","high bp","high bp level","high blood pressure level","high blood pressure levels","high bp levels","high blood pressure levels","high blood pressure level","anxiety","aggression","anger","angry","stress","tension","headache"],
+      "description" : ["\nHypertension is a condition where the blood pressure in your arteries is persistently elevated. It can increase the risk of heart disease, stroke, and other serious health issues if not controlled.\n\nHere are my suggestions that can help you:\n1. Follow a heart-healthy diet low in salt, saturated fat, and cholesterol.\n2. Engage in regular physical activity to help lower blood pressure and improve heart health.\n3. Limit alcohol intake and avoid smoking to reduce hypertension risk.\n4. Monitor your blood pressure regularly and keep track of any changes.\n5. Consult a healthcare provider for medications and management strategies.\n"]
+    },
+    {
+      "disease" : "Dengue",
+      "keywords" : ["abdomen","abdominal pain","fever","chills","headache","fatigue","nausea","vomiting","red spots","rashes"],
+      "description" : ["\nDengue is a mosquito-borne viral infection that can cause severe flu-like symptoms, including high fever, severe headache, and joint and muscle pain. It can sometimes lead to serious complications.\n\nHere are my suggestions that can help you:\n1. Use insect repellent and wear long-sleeved clothing to prevent mosquito bites.\n2. Ensure that your living environment is free from standing water where mosquitoes breed.\n3. Rest and stay hydrated to help your body recover from the infection.\n4. Use paracetamol to relieve pain and reduce fever, but avoid aspirin and ibuprofen.\n5. Seek medical attention immediately if symptoms worsen or if there are signs of severe dengue, such as bleeding or severe abdominal pain.\n"]
+    },
+    {
+      "disease" : "Malaria",
+      "keywords" : ["fever","chills","headache","fatigue","nausea","vomiting","yellow skin","yellow eyes","yellowish skin","yellowish eyes","sweating","sweat","shivering","shiver","shivers","shivering","pale yellowish skin","pale yellowish eyes","pale yellow skin","pale yellow eyes"],
+      "description" : ["\nMalaria is a life-threatening disease caused by parasites transmitted to humans through the bites of infected mosquitoes. Symptoms include fever, chills, and flu-like illness.\n\nHere are my suggestions that can help you:\n1. Use mosquito nets and repellents to protect yourself from mosquito bites, especially in malaria-prone areas.\n2. Take antimalarial medications as prescribed if traveling to or living in areas with high malaria risk.\n3. Seek prompt medical treatment if you experience symptoms of malaria.\n4. Stay indoors during peak mosquito activity times, usually dawn and dusk.\n5. Consult a healthcare provider for preventive measures and appropriate treatments if you suspect malaria.\n"]
+    },
+    {
+      "disease" : "Typhoid",
+      "keywords" : ["fever","chills","headache","fatigue","nausea","vomiting","bloating","constipation","diarrhea","abdominal pain","abdomen"],
+      "description" : ["\nTyphoid fever is a bacterial infection caused by Salmonella typhi. It is characterized by high fever, weakness, stomach pain, and sometimes a rash.\n\nHere are my suggestions that can help you:\n1. Ensure safe drinking water by boiling or using a water filter in areas with poor sanitation.\n2. Practice good hygiene and handwashing to prevent infection.\n3. Avoid consuming raw or undercooked foods that may be contaminated.\n4. Get vaccinated against typhoid if traveling to or living in areas where typhoid is common.\n5. Consult a healthcare provider for appropriate antibiotics and treatment if you experience symptoms of typhoid.\n"]
+    },
+    {
+      "disease" : "Gastritis",
+      "keywords" : ["abdomen","abdominal pain","chest pain","stomach pain","stomach ache","chest","chest tightness","chest heaviness","stomach tightness","stomach heaviness","stomach inflammation","gas"],
+      "description" : ["\nGastritis is the inflammation of the stomach lining, which can cause abdominal pain, nausea, and indigestion. It can be triggered by factors such as infection, excessive alcohol use, or prolonged use of NSAIDs.\n\nHere are my suggestions that can help you:\n1. Avoid foods and beverages that can irritate the stomach lining, such as spicy foods, alcohol, and coffee.\n2. Eat smaller, more frequent meals to reduce the burden on your stomach.\n3. Take antacids or other medications as recommended by your healthcare provider to reduce stomach acid.\n4. Avoid smoking and manage stress to help reduce symptoms of gastritis.\n5. Consult a healthcare provider if symptoms persist or if you suspect an infection like H. pylori.\n"]
+    },
+    {
+      "disease" : "Constipation",
+      "keywords" : ["stool","pain","bowel","constipation"],
+      "description" : ["\nConstipation is a common digestive issue characterized by infrequent bowel movements or difficulty passing stool. It can cause discomfort and bloating.\n\nHere are my suggestions that can help you:\n1. Increase your intake of dietary fiber from fruits, vegetables, and whole grains.\n2. Drink plenty of water to help soften stool and promote regular bowel movements.\n3. Engage in regular physical activity to stimulate intestinal function.\n4. Establish a regular bathroom routine to help regulate bowel movements.\n5. Consult a healthcare provider if constipation persists or if over-the-counter laxatives are needed.\n"]
+    },
+    {
+      "disease" : "Kidney Stones",
+      "keywords" : ["blood in urine","urine","urination","pain","kidney","kidney stones","stones","stone","urine pain","urine blood","urine stones","urine stone","urine pain","urine blood","urine stones","urine stone","nausea","vomiting","abdominal pain","abdomen","back pain","frequent urination"],
+      "description" : ["\nKidney stones are hard deposits made of minerals and salts that form in the kidneys. They can cause severe pain, particularly during urination or in the lower back.\n\nHere are my suggestions that can help you:\n1. Drink plenty of fluids to help prevent stone formation and to aid in passing stones.\n2. Reduce intake of foods high in oxalates, such as spinach and nuts, if prone to oxalate stones.\n3. Limit salt and protein intake to reduce the risk of certain types of kidney stones.\n4. Take prescribed medications that can help prevent stones or assist in passing them.\n5. Consult a healthcare provider if you experience severe pain or if you suspect you have a kidney stone.\n"]
+    }
+  ]
+}
+  

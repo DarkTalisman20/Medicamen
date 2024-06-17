@@ -1,0 +1,112 @@
+/* styling the chatbot */
+:root {
+    --chat-component-width: 800px; 
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.chat-wrapper {
+    width: var(--chat-component-width); 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chat-title {
+    width: var(--chat-component-width); 
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 24px; 
+    background-color: #add8e6; 
+    border: 1px solid #add8e6;
+    padding: 20px 0; 
+}
+
+.chat-window {
+    width: var(--chat-component-width); 
+    height: 500px;
+    border: 1px solid #ccc;
+    overflow-y: auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 0; 
+}
+
+.input-area {
+    width: var(--chat-component-width); 
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+#user-input {
+    width: calc(100% - 170px); 
+    padding: 10px;
+}
+
+#send-button, #resetChatButton {
+    width: 100px; 
+    margin-left: 10px;
+    background-color: #4CAF50; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+#send-button:hover {
+    background-color: #45a049; 
+}
+
+#resetChatButton {
+    background-color: #f44336; 
+}
+
+#resetChatButton:hover {
+    background-color: #d32f2f; 
+}
+
+.message, .bot-message, .user-message {
+    box-sizing: border-box; 
+    padding: 10px;
+    margin: 5px 10px; 
+    border-radius: 10px; 
+    max-width: 48%;
+    min-width: 20%;
+    display: flex;
+    align-items: center;
+}
+
+.bot-message {
+    background-color: hsl(0, 0%, 94%);
+    align-self: flex-start;
+    color: black; 
+}
+
+.user-message {
+    background-color: #007bff;
+    color: white;
+    align-self: flex-end;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 20px;
+    background-color: #f2f2f2; 
+    padding: 10px 20px;
+    border-radius: 5px; 
+    font-size: 0.9rem;
+    color: #333; 
+}
+.icon {
+    margin-right: 10px;
+}
