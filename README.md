@@ -9,6 +9,9 @@ It's very important to remember that the suggestions may not be able to cure the
 
 
 ## Acknowlegments
+
+I would like to express my gratitude to Microsoft for hosting the MS Hackathon 2024, which inspired the creation of this project.
+
 I have taken help from websites of a few government organizations for training our Chatbot model.
 
 The links for the websites are as follows - 
